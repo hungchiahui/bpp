@@ -1,2 +1,2 @@
 # bpp - Bpp
-> Business Application
+> my Business Application
